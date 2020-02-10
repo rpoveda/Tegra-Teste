@@ -1,0 +1,14 @@
+# Projeto com a solução para a prova da Tegra #
+
+## Back-End ##
+
+    Entrar na pasta Tegra.Teste/Tegra.Teste.Api e executar os comandos:
+        - dotnet build;
+        - dotnet run;
+        - Acessar a url http://localhost:5000/swagger.
+
+## Front-End ##
+
+    Entrar na pasta tegra-front e executar os comandos:
+        - yarn install;
+        - yarn start.

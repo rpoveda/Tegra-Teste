@@ -1,0 +1,8 @@
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.ViewModel\bin\Debug\netcoreapp3.1\Tegra.Teste.ViewModel.deps.json
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.ViewModel\bin\Debug\netcoreapp3.1\Tegra.Teste.ViewModel.dll
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.ViewModel\bin\Debug\netcoreapp3.1\Tegra.Teste.ViewModel.pdb
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.ViewModel\obj\Debug\netcoreapp3.1\Tegra.Teste.ViewModel.csprojAssemblyReference.cache
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.ViewModel\obj\Debug\netcoreapp3.1\Tegra.Teste.ViewModel.AssemblyInfoInputs.cache
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.ViewModel\obj\Debug\netcoreapp3.1\Tegra.Teste.ViewModel.AssemblyInfo.cs
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.ViewModel\obj\Debug\netcoreapp3.1\Tegra.Teste.ViewModel.dll
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.ViewModel\obj\Debug\netcoreapp3.1\Tegra.Teste.ViewModel.pdb

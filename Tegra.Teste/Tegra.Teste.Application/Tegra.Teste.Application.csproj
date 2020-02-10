@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Caching.Abstractions" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tegra.Teste.Domain\Tegra.Teste.Domain.csproj" />
+    <ProjectReference Include="..\Tegra.Teste.Infra\Tegra.Teste.Infra.csproj" />
+    <ProjectReference Include="..\Tegra.Teste.ViewModel\Tegra.Teste.ViewModel.csproj" />
+  </ItemGroup>
+
+</Project>

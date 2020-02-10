@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tegra.Teste.ViewModel/1.0.0": {
+        "runtime": {
+          "Tegra.Teste.ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tegra.Teste.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\bin\Debug\netcoreapp3.1\Tegra.Teste.Application.deps.json
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\bin\Debug\netcoreapp3.1\Tegra.Teste.Application.dll
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\bin\Debug\netcoreapp3.1\Tegra.Teste.Application.pdb
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\bin\Debug\netcoreapp3.1\Tegra.Teste.Domain.dll
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\bin\Debug\netcoreapp3.1\Tegra.Teste.Infra.dll
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\bin\Debug\netcoreapp3.1\Tegra.Teste.ViewModel.dll
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\bin\Debug\netcoreapp3.1\Tegra.Teste.Domain.pdb
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\bin\Debug\netcoreapp3.1\Tegra.Teste.Infra.pdb
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\bin\Debug\netcoreapp3.1\Tegra.Teste.ViewModel.pdb
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\obj\Debug\netcoreapp3.1\Tegra.Teste.Application.csprojAssemblyReference.cache
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\obj\Debug\netcoreapp3.1\Tegra.Teste.Application.AssemblyInfoInputs.cache
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\obj\Debug\netcoreapp3.1\Tegra.Teste.Application.AssemblyInfo.cs
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\obj\Debug\netcoreapp3.1\Tegra.Teste.Application.csproj.CopyComplete
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\obj\Debug\netcoreapp3.1\Tegra.Teste.Application.dll
+C:\Rafael\Provas\Tegra\Codigo\Tegra.Teste\Tegra.Teste.Application\obj\Debug\netcoreapp3.1\Tegra.Teste.Application.pdb
